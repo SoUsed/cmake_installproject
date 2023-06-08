@@ -16,6 +16,8 @@ result: installed package will be at build/package/functionator.zip
 
 ## Configuration
 The list of available functions is limited to x^a, a^x, sin(x), cos(x), ln(x), c
+
 Support of the other functions for derivator/integrator can be added via config files
+
 Format: function=*its derivative/integral*:
 tg(x)=1/cos^2(x)
