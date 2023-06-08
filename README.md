@@ -3,6 +3,7 @@
 1. from project root, run "mkdir build && cd build"
 2. cmake .. && cmake --build .
 3. cpack
+
 result: installed package will be at build/package/functionator.zip
 
 ## Usage
